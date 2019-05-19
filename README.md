@@ -1,5 +1,4 @@
-# zadanie_18_6
-# Independent counters
+# zadanie_18_6 - Independent counters
 
 Publish:
 
